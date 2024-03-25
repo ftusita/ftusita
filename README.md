@@ -9,8 +9,10 @@
 
 <div align="center">
   
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftusita&hide=&show_icons=true&theme=prussian)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ftusita&theme=prussian&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
 </div>
+
 
 
 <div align="center"> 
@@ -38,4 +40,36 @@
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ftusita?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
+</div>
+
+<br>
+<br>
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+                
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      
+
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+          
+          
+          
+          
+
+
+          
+          
 </div>
