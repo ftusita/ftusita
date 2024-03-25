@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftusita&hide=&show_icons=true&theme=holi)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftusita&hide=&show_icons=true&theme=shadow_red)
 </div>
 
 
