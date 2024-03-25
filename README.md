@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ae3169&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e4cd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=a9fef7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Felipe;I'm+21+years+old;Graduating+in+Information+Systems;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=e13c8c&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Felipe;I'm+21+years+old;Graduating+in+Information+Systems;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftusita&hide=&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftusita&hide=&show_icons=true&theme=neon)
 </div>
 
 
