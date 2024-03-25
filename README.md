@@ -28,7 +28,7 @@
 </a>
 
 
-<a  href="https://www.linkedin.com/in/felipe-tusita/" target=_blank>
+<a  href="https://www.linkedin.com/in/FelipeTusita/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
@@ -36,6 +36,6 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ftusita?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=black) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ftusita?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=red) 
 
 </div>
